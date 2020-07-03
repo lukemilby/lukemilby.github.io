@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luke Milby</title>
-    <link>https://lukemilby.github.io/</link>
+    <link>https://crungeon.com/</link>
     <description>Recent content on Luke Milby</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     
-	<atom:link href="https://lukemilby.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crungeon.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://lukemilby.github.io/pages/about/</link>
+      <link>https://crungeon.com/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lukemilby.github.io/pages/about/</guid>
+      <guid>https://crungeon.com/pages/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://lukemilby.github.io/pages/contact/</link>
+      <link>https://crungeon.com/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lukemilby.github.io/pages/contact/</guid>
+      <guid>https://crungeon.com/pages/contact/</guid>
       <description>Twitter
 Insert your contact details or a contact form here.</description>
     </item>
