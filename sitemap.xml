@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://crungeon.com/</loc>
+    <lastmod>2020-10-14T08:57:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crungeon.com/posts/crungeon/</loc>
+    <lastmod>2020-10-14T08:57:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crungeon.com/tags/crungeon/</loc>
+    <lastmod>2020-10-14T08:57:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crungeon.com/posts/</loc>
+    <lastmod>2020-10-14T08:57:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crungeon.com/tags/</loc>
+    <lastmod>2020-10-14T08:57:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crungeon.com/about/</loc>
+    <lastmod>2020-02-26T18:45:16-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://crungeon.com/pages/about/</loc>
   </url>
   
@@ -11,15 +41,7 @@
   </url>
   
   <url>
-    <loc>https://crungeon.com/</loc>
-  </url>
-  
-  <url>
     <loc>https://crungeon.com/pages/</loc>
-  </url>
-  
-  <url>
-    <loc>https://crungeon.com/tags/</loc>
   </url>
   
 </urlset>
