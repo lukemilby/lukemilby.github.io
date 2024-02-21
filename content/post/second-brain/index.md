@@ -7,6 +7,7 @@ authors:
 tags:
   - Second Brain
   - Markdown
+draft: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
