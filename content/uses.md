@@ -1,6 +1,6 @@
 ---
 title: Uses
-date: 2024-3-16
+date: 2024-03-16
 hide_date: true
 reading_time: false
 ---
