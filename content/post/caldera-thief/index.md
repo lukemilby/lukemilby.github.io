@@ -11,8 +11,6 @@ tags:
   - Exfil
 ---
 
-# Setup
-
 Were going to walk throught the Advanced Theif adversary and understand whats going on. We'll start first with Abilities, setup Fact Sources last and disect commands in the middle. 
 This adversary is simple and has only a few abilities to configure setup.  
 
