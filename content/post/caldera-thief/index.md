@@ -1,5 +1,5 @@
 ---
-title: Caldera Fact Sources by Theift
+title: Caldera Fact Sources by Theft
 draft: false
 authors:
   - admin
