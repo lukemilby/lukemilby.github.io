@@ -6,15 +6,15 @@ authors:
 date: 2024-05-02
 tags:
   - Caldera
-  - Theif
+  - Thief
   - Fact Sources 
   - Exfil
 ---
 
-Were going to walk throught the Advanced Theif adversary and understand whats going on. We'll start first with Abilities, setup Fact Sources last and disect commands in the middle. 
+Were going to walk throught the Advanced Thief adversary and understand whats going on. We'll start first with Abilities, setup Fact Sources last and disect commands in the middle. 
 This adversary is simple and has only a few abilities to configure setup.  
 
-## Theif
+## Thief
 
 This adversary searches for files, compress them and exfiltrate to the attackers server.  
 
