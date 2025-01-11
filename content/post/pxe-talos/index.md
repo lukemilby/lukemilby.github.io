@@ -70,7 +70,7 @@ You can find that here [docker-compose.yaml](https://raw.githubusercontent.com/n
 Once your image has been deployed navigate to `http://<netboot container ip>:3000` 
 
 
-<img src="talos/udm-network-boot.png" alt="UDM Network Boot Setup">
+<img src="/talos/udm-network-boot.png" alt="UDM Network Boot Setup">
 
 ## Deploying Talos from a network jack
 
