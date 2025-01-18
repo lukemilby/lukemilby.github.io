@@ -25,7 +25,7 @@ TLDR: Small (100mb) Operating System for Kubernetes
 
 Makes it a one stop shop to deploy Kubernetes through live booting from an IOS. 
 
-Talos live boots off an ISO and gets to working. Leaving your system untouched. So once you've overstayed your welcome minikube I'm sure you'll stumble upon Talso. If not, Talos IMO is the next step after minikube and k3s should be over looked. You can also use kubeadm, provision Ubuntu VM have k8s running on a VM which seems only good if you're testing.
+Talos live boots off an ISO and gets to working. Leaving your system untouched. So once you've overstayed your welcome minikube I'm sure you'll stumble upon Talos. If not, Talos IMO is the next step after minikube and k3s should be over looked. You can also use kubeadm, provision Ubuntu VM have k8s running on a VM which seems only good if you're testing.
 
 Talos has me locked in for deploy it to my lab. To do this I'll be using Lenovo ThinkCentre M93p's. I have 2 right now but expanding to 5 for just 150$ more. How we deploy is through PXE Boot (Preboot eXectution Environment).
 
@@ -99,7 +99,7 @@ Heres an example of what booting from a PXE Server looks like. I power on the VM
 
 ## Closing
 
-I have 3 more nodes to add. **Lenovo ThinkCentre M93p Tiny i5-4570T 16GB 160GB SSD** from Ebay at 50$ a pop. Much cheaper than buying a Raspberry Pi. 2 are already in the lab with Talos booted in Maintinance mode. Next is getting Talsoctl setup with those 2 nodes. 
+I have 3 more nodes to add. **Lenovo ThinkCentre M93p Tiny i5-4570T 16GB 160GB SSD** from Ebay at 50$ a pop. Much cheaper than buying a Raspberry Pi. 2 are already in the lab with Talos booted in Maintinance mode. Next is getting Talosctl setup with those 2 nodes. 
 
 Netboot out of the box is great not really much more I need to setup, but one glaring hole I need to fill is have PXE auto select Talos after a certain time limit. Right now I have to naviage a menu and find Talos, it would be easier if thats was the default image selected. Man to think Talos could replace all my proxmox servers...
 
