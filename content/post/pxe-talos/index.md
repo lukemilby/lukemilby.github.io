@@ -48,18 +48,7 @@ You can also remove the USB drives.
 The quickest way to get this up and running is deploying a docker container of [netboot.xyz docker setup](https://netboot.xyz/docs/docker)
 
 ```docker
-docker run -d \  
-	--name=netbootxyz \  
-	-e MENU_VERSION=2.0.76 `# optional` \  
-	-e NGINX_PORT=80 `# optional` \  
-	-e WEB_APP_PORT=3000 `# optional` \  
-	-p 3000:3000 `# sets web configuration interface port, destination should match ${WEB_APP_PORT} variable above.` \  
-	-p 69:69/udp `# sets tftp port` \  
-	-p 8080:80 `# optional, destination should match ${NGINX_PORT} variable above.` \  
-	-v ./config:/config `# optional` \ 
-	-v ./assets:/assets `# optional` \ 
-	--restart unless-stopped \  
-	ghcr.io/netbootxyz/netbootxyz
+docker run -d --name=netbootxyz -e MENU_VERSION=2.0.76 -e NGINX_PORT=80 -e WEB_APP_PORT=3000 -p 3000:3000 -p 69:69/udp -p 8080:80 -v ./config:/config -v ./assets:/assets --restart unless-stopped ghcr.io/netbootxyz/netbootxyz
 ```
 
 
